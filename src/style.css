@@ -37,20 +37,20 @@ main {
 
 main h2 {
     font-size: 2.2em;
-    color: #333;
-    margin-bottom: 20px;
+    color: #333333;
+    margin-bottom: 15px;
 }
 
 main p {
-    color: #555;
+    color: #555555;
     font-size: 1.2em;
     line-height: 1.6;
-    margin-bottom: 20px;
+    margin-bottom: 15px;
 }
 
 /* Call-to-action button styling */
 .cta-button {
-    background-color: #ff5733;
+    background-color: #69ff33;
     color: white;
     padding: 15px 30px;
     font-size: 1.3em;
